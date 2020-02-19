@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    vertical-align: bottom;
+    font-family:'Times New Roman', Times, serif;
+    background-color: white;
+   
+}
+body{
+    margin-top: 100px;
+}
+header{
+    padding: 100px auto 0px;
+    /* width: 1000px; */
+    text-align: center;
+    background-color: white;
+}
+h1 {
+
+    font-size: 2.5rem;
+    margin-bottom: 0px;
+}
+main{
+}
+.worktitle{
+    text-align: center;
+}
+.name{
+    text-align: center;
+    /* width: 1000px; */
+    margin: 0 auto;
+}
+.container{
+    
+    display: flex;
+    justify-content: center;
+    padding-top:32px ;
+    padding-bottom:32px;
+
+}
+
+.icon {
+    text-align: center;
+ 
+    margin: 0 auto;
+}
+
+.icon img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-width: 8px;
+    margin: 0 auto;
+}
+
+
+.info{
+    margin: 0 auto;
+}
+
+.info ul li{
+    list-style-type: none;
+    display: inline;
+ 
+}
+.tsuika{
+    max-width: 100%;
+}
+.tsuika img{
+    width: 45px;
+    height: 45px;
+    margin-left: 30px;
+}
+
+li.boot img {
+    margin-left: 10px;
+}
+.works {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card img{
+    margin: 0 auto;
+}
+.website img{
+    width: 300px;
+    height: 300px;
+
+}
+
+.banner img{
+    width: 300px;
+    height: 300px;
+
+}
+
+.gohome{
+    text-align: right;
+    margin-top: 150px;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+    font-size: 14px;
+
+    color:white;
+}
+
+footer p{
+    margin-top: 60px;
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
